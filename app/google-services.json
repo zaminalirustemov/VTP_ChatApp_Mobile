@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253878819426",
+    "project_id": "vtpchatappv3",
+    "storage_bucket": "vtpchatappv3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253878819426:android:aec25e32d50e283773cf3b",
+        "android_client_info": {
+          "package_name": "com.asparagas.vtp_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253878819426-k0cba5cfop2jttelgepvqg50ca2ahqrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkSWdtfL1G32fTRSnEylBAit-1NxW8tUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253878819426-k0cba5cfop2jttelgepvqg50ca2ahqrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
